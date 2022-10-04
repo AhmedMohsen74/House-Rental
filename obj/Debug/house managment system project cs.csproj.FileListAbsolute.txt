@@ -1,0 +1,276 @@
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.config
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.pdb
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csprojAssemblyReference.cache
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Form1.resources
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Properties.Resources.resources
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.GenerateResource.cache
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.CoreCompileInputs.cache
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.pdb
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\bin\Debug\aa-DJ\house managment system project cs.resources.dll
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Form1.aa-DJ.resources
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\aa-DJ\house managment system project cs.resources.dll
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerForm.resources
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.register.resources
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Login_form.resources
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Form2.resources
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Register_for_client.resources
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_for_client.resources
+C:\Users\Electronica\source\repos\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_form_for_client.resources
+F:\F C i\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.config
+F:\F C i\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe
+F:\F C i\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.pdb
+F:\F C i\house managment system project cs\house managment system project cs\bin\Debug\aa-DJ\house managment system project cs.resources.dll
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.AssemblyReference.cache
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Form1.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_form_for_client.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerForm.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Properties.Resources.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Register_for_client.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Form1.aa-DJ.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.GenerateResource.cache
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.CoreCompileInputs.cache
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\aa-DJ\house managment system project cs.resources.dll
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.pdb
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Login_form_Owner.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.register_Owner.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Help_Owner.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.HelpCutomer.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Terms.resources
+F:\F C i\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Termsforclient.resources
+F:\Project C#\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.config
+F:\Project C#\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe
+F:\Project C#\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.pdb
+F:\Project C#\house managment system project cs\house managment system project cs\bin\Debug\aa-DJ\house managment system project cs.resources.dll
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Help_Owner.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.HelpCutomer.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_form_for_client.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Login_form_Owner.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerForm.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Properties.Resources.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Register_for_client.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.register_Owner.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.GenerateResource.cache
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.CoreCompileInputs.cache
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\aa-DJ\house managment system project cs.resources.dll
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.pdb
+E:\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.config
+E:\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe
+E:\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.pdb
+E:\house managment system project cs\house managment system project cs\bin\Debug\aa-DJ\house managment system project cs.resources.dll
+E:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csprojAssemblyReference.cache
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Customer.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Help_Owner.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.HelpCutomer.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_form_for_client.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Login_form_Owner.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerForm.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Properties.Resources.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Register_for_client.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.register_Owner.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerTerms.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.CustomerTerms.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.aa-DJ.resources
+E:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.GenerateResource.cache
+E:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.CoreCompileInputs.cache
+E:\house managment system project cs\house managment system project cs\obj\Debug\aa-DJ\house managment system project cs.resources.dll
+E:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe
+E:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.pdb
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.config
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.pdb
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.pdb
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\bin\Debug\aa-DJ\house managment system project cs.resources.dll
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csprojResolveAssemblyReference.cache
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Customer.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Help_Owner.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.HelpCutomer.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_form_for_client.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Login_form_Owner.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerForm.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Properties.Resources.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Register_for_client.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.register_Owner.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerTerms.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.CustomerTerms.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.ResultforClient.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.aa-DJ.resources
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.GenerateResource.Cache
+C:\Users\ahkhn\Desktop\final\house managment system project cs\house managment system project cs\obj\Debug\aa-DJ\house managment system project cs.resources.dll
+E:\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.manifest
+E:\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.application
+E:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe.manifest
+E:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.application
+F:\Project C#\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.manifest
+F:\Project C#\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.application
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Customer.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerTerms.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.CustomerTerms.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.aa-DJ.resources
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe.manifest
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.application
+F:\Project C#\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.AssemblyReference.cache
+F:\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.config
+F:\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.manifest
+F:\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.application
+F:\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe
+F:\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.pdb
+F:\house managment system project cs\house managment system project cs\bin\Debug\aa-DJ\house managment system project cs.resources.dll
+F:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.AssemblyReference.cache
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Customer.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Help_Owner.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.HelpCutomer.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_form_for_client.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Login_form_Owner.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerForm.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Properties.Resources.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Register_for_client.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.register_Owner.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerTerms.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.CustomerTerms.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.aa-DJ.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.GenerateResource.cache
+F:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.CoreCompileInputs.cache
+F:\house managment system project cs\house managment system project cs\obj\Debug\aa-DJ\house managment system project cs.resources.dll
+F:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe.manifest
+F:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.application
+F:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe
+F:\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.pdb
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Frogotpass_customer.resources
+F:\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Frogotpass_Owner.resources
+E:\Last version project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.config
+E:\Last version project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.manifest
+E:\Last version project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.application
+E:\Last version project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe
+E:\Last version project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.pdb
+E:\Last version project\house managment system project cs\house managment system project cs\bin\Debug\aa-DJ\house managment system project cs.resources.dll
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csprojAssemblyReference.cache
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Customer.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Frogotpass_customer.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Frogotpass_Owner.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Help_Owner.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.HelpCutomer.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_form_for_client.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Login_form_Owner.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerForm.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Properties.Resources.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Register_for_client.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.register_Owner.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerTerms.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.CustomerTerms.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Resetpass_customer.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Resetpass_owner.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.aa-DJ.resources
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.GenerateResource.cache
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.CoreCompileInputs.cache
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\aa-DJ\house managment system project cs.resources.dll
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe.manifest
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.application
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.pdb
+E:\Last version project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Display_the_pictures_of_the_home.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.config
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.manifest
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.application
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.pdb
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\bin\Debug\aa-DJ\house managment system project cs.resources.dll
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csprojAssemblyReference.cache
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Customer.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Display_the_pictures_of_the_home.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Frogotpass_customer.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Frogotpass_Owner.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Help_Owner.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.HelpCutomer.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_form_for_client.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Login_form_Owner.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerForm.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Properties.Resources.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Register_for_client.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.register_Owner.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerTerms.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.CustomerTerms.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Resetpass_customer.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Resetpass_owner.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.aa-DJ.resources
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.GenerateResource.cache
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.CoreCompileInputs.cache
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\aa-DJ\house managment system project cs.resources.dll
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe.manifest
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.application
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe
+C:\Users\Electronica\Desktop\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.pdb
+E:\Project\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.config
+E:\Project\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.manifest
+E:\Project\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.application
+E:\Project\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe
+E:\Project\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.pdb
+E:\Project\Project\house managment system project cs\house managment system project cs\bin\Debug\aa-DJ\house managment system project cs.resources.dll
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csprojAssemblyReference.cache
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Customer.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Display_the_pictures_of_the_home.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Frogotpass_customer.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Frogotpass_Owner.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Help_Owner.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.HelpCutomer.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_form_for_client.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Login_form_Owner.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerForm.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Properties.Resources.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Register_for_client.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.register_Owner.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerTerms.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.CustomerTerms.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Resetpass_customer.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Resetpass_owner.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.aa-DJ.resources
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.GenerateResource.cache
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.CoreCompileInputs.cache
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\aa-DJ\house managment system project cs.resources.dll
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe.manifest
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.application
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe
+E:\Project\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.pdb
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.config
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe.manifest
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.application
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.exe
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\bin\Debug\house managment system project cs.pdb
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\bin\Debug\aa-DJ\house managment system project cs.resources.dll
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csprojAssemblyReference.cache
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Customer.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Display_the_pictures_of_the_home.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Frogotpass_customer.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Frogotpass_Owner.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Help_Owner.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.HelpCutomer.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.login_form_for_client.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Login_form_Owner.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerForm.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Properties.Resources.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Register_for_client.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.register_Owner.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.OwnerTerms.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.CustomerTerms.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Resetpass_customer.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Resetpass_owner.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house_managment_system_project_cs.Home.aa-DJ.resources
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.GenerateResource.cache
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.csproj.CoreCompileInputs.cache
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\aa-DJ\house managment system project cs.resources.dll
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe.manifest
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.application
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.exe
+E:\Project\C# Projects\Project\house managment system project cs\house managment system project cs\obj\Debug\house managment system project cs.pdb
